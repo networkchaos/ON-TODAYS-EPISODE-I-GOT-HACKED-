@@ -435,19 +435,4 @@ I did not include binary screenshots in this text export. If you want images in 
 
 ---
 
-## Closing notes — what I would add to the repo
 
-* `README.md` (this document) — placed at repo root.
-* `evidence/` — store `mvt-results-2025-11-02.tar.gz` (or better: store on offline/airgapped medium, not public GitHub). **Do not** publish sensitive archives publicly.
-* `images/` — screenshots of critical outputs (timeline_detected snippet, adb devices, whois output, urlscan).
-* `notes/` — a short log of exact commands executed (already recorded above) and any communications with providers (rb.gy / Cloudflare).
-
----
-
-If you want, I will:
-
-* Convert this into a ready-to-commit `README.md` file and place it in a single code block so you can copy & paste to your repo.
-* Redact any sensitive fields (phone serial, full URLs) for public posting and produce a sanitized version for GitHub.
-* Produce a separate private evidence README with exact archive checksums to keep offline.
-
-Which would you like me to do next?
